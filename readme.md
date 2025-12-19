@@ -120,7 +120,7 @@ The dataset is **not intended** for:
 ---
 
 ## Repository Structure
-
+```
 sem-defect-localization-dataset/
 │
 ├── README.md
@@ -138,7 +138,7 @@ sem-defect-localization-dataset/
 │ ├── sample_02.png
 │ ├── sample_03.png
 │ └── sample_04.png
-
+```
 This repository does **not** host the full dataset or annotations due to size constraints.
 
 ---
