@@ -124,6 +124,21 @@ The dataset is **not intended** for:
 sem-defect-localization-dataset/
 │
 ├── README.md
+├── LICENSE
+├── CITATION.cff
+│
+├── docs/
+│ ├── dataset_overview.md
+│ ├── annotation_format.md
+│ ├── preprocessing_description.md
+│ └── augmentation_strategy.md
+│
+├── samples/
+│ ├── sample_01.png
+│ ├── sample_02.png
+│ ├── sample_03.png
+│ └── sample_04.png
+
 This repository does **not** host the full dataset or annotations due to size constraints.
 
 ---
@@ -159,18 +174,3 @@ A `CITATION.cff` file is provided for automated citation support.
 ## Contact
 
 For questions or clarifications, please open an issue in this repository.
-
-├── LICENSE
-├── CITATION.cff
-│
-├── docs/
-│ ├── dataset_overview.md
-│ ├── annotation_format.md
-│ ├── preprocessing_description.md
-│ └── augmentation_strategy.md
-│
-├── samples/
-│ ├── sample_01.png
-│ ├── sample_02.png
-│ ├── sample_03.png
-│ └── sample_04.png
