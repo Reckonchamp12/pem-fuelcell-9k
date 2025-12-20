@@ -155,11 +155,13 @@ their own training pipelines using the documented dataset structure and annotati
 
 ## License
 
-The dataset is released under the  
-**Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+The code and documentation in this repository are released under the  
+**MIT License**.
 
-See the `LICENSE` file for details.
+The dataset itself is hosted on Zenodo and is released in **restricted-access mode**.  
+Access conditions and usage terms are defined on the corresponding Zenodo record.
 
+See the `LICENSE` file for details regarding the repository contents.
 ---
 
 ## Citation
