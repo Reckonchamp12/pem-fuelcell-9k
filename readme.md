@@ -162,6 +162,7 @@ The dataset itself is hosted on Zenodo and is released in **restricted-access mo
 Access conditions and usage terms are defined on the corresponding Zenodo record.
 
 See the `LICENSE` file for details regarding the repository contents.
+
 ---
 
 ## Citation
