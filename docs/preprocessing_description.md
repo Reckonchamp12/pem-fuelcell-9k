@@ -63,16 +63,14 @@ applied to all images.
   - Example:  
     - 2048 × 2176 image → 130 pixels removed  
     - 1024 × 943 image → 57 pixels removed  
-## Preprocessing Example: Scale Bar Removal
+### Scale Bar Removal (Before and After)
 
-<p align="center">
-  <img src="docs/images/sem_before_crop.jpeg" width="45%">
-  <img src="docs/images/sem_after_crop.jpeg" width="45%">
-</p>
+**Before cropping**
+![SEM image before cropping](docs/images/sem_before_crop.jpeg)
 
-<p align="center">
-  <em>Representative SEM image before (left) and after (right) uniform 6% bottom cropping.</em>
-</p>
+**After cropping**
+![SEM image after cropping](docs/images/sem_after_crop.jpeg)
+
 
 
 This proportional approach ensured consistent removal of overlays while preserving
