@@ -20,7 +20,7 @@ The complete dataset is publicly available on Zenodo:
 **DOI:** https://doi.org/10.5281/zenodo.XXXXXXX
 
 The Zenodo archive contains:
-- 9,108 SEM images (original + augmented)
+- 9,064 SEM images (original + augmented)
 - Bounding-box annotations in JSON format
 - Dataset metadata
 
