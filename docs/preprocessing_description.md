@@ -66,8 +66,8 @@ applied to all images.
 ## Preprocessing Example: Scale Bar Removal
 
 <p align="center">
-  <img src="docs/images/sem_before_crop.png" width="45%">
-  <img src="docs/images/sem_after_crop.png" width="45%">
+  <img src="docs/images/sem_before_crop.jpeg" width="45%">
+  <img src="docs/images/sem_after_crop.jpeg" width="45%">
 </p>
 
 <p align="center">
