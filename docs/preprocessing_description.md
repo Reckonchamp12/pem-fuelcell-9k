@@ -71,11 +71,9 @@ applied to all images.
 </p>
 
 <p align="center">
-  <em>
-  Representative SEM image before (left) and after (right) uniform 6% bottom cropping
-  for scale bar and overlay removal.
-  </em>
+  <em>Representative SEM image before (left) and after (right) uniform 6% bottom cropping.</em>
 </p>
+
 
 This proportional approach ensured consistent removal of overlays while preserving
 relative spatial content across images of different resolutions.
