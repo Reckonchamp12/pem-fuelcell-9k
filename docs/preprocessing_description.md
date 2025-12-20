@@ -66,8 +66,8 @@ applied to all images.
 ### Scale Bar Removal (Before and After)
 
 <p align="center">
-  <img src="images/before_crop.png" width="45%">
-  <img src="images/after_crop.png" width="45%">
+  <img src="images/sem_before_crop.jpeg" width="45%">
+  <img src="images/sem_after_crop.jpeg" width="45%">
 </p>
 
 <p align="center">
