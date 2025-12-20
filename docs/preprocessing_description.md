@@ -65,13 +65,14 @@ applied to all images.
     - 1024 × 943 image → 57 pixels removed  
 ### Scale Bar Removal (Before and After)
 
-**Before cropping**
-![SEM image before cropping](docs/images/sem_before_crop.jpeg)
+<p align="center">
+  <img src="images/before_crop.png" width="45%">
+  <img src="images/after_crop.png" width="45%">
+</p>
 
-**After cropping**
-![SEM image after cropping](docs/images/sem_after_crop.jpeg)
-
-
+<p align="center">
+  <em>Left: original SEM image with scale bar. Right: image after uniform bottom crop.</em>
+</p>
 
 This proportional approach ensured consistent removal of overlays while preserving
 relative spatial content across images of different resolutions.
