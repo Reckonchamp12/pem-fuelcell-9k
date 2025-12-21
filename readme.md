@@ -17,7 +17,7 @@ illustrative samples** to support correct and responsible reuse.
 
 The complete dataset is publicly available on Zenodo:
 
-**DOI:** https://doi.org/10.5281/zenodo.18001686
+**DOI:** [https://doi.org/10.5281/zenodo.18001686](https://doi.org/10.6084/m9.figshare.30928907)
 
 The Zenodo archive contains:
 - 9,064 SEM images (original + augmented)
